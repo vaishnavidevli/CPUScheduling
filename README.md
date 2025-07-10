@@ -1,4 +1,3 @@
-<img width="1911" height="982" alt="image" src="https://github.com/user-attachments/assets/5a58626b-5e39-48f5-8a63-919916dee980" /># CPU Scheduling Simulator
 
 This is a Java Swing desktop application that simulates CPU scheduling algorithms.  
 It allows users to select one of several common scheduling algorithms, specify the number of processes, provide a source file for input data, and run a simulation that demonstrates how processes are scheduled by the CPU.
